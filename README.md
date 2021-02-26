@@ -6,7 +6,7 @@ I took on this project to help further my understanding of how neural networks w
 #### Style image:
 "Rain's Rustle" by Leonid Afremov
 
-<img src = "https://github.com/kathleenisrad/style-transfer-implementation/blob/main/images/style_images/rains_rustle.jpg"> 
+<img src = "https://github.com/kathleenisrad/style-transfer-implementation/blob/main/images/style_images/starry_night.jpg"> 
 
 
 #### Content image:
