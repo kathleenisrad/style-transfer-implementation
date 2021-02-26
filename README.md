@@ -34,4 +34,9 @@ In the paper, they visualize the outputs of the VGG19 model at different layers,
 
 ### Results:
 
-<img src = "https://github.com/kathleenisrad/style-transfer-implementation/blob/main/images/generated_images/starry_cat/generated_image_epoch_500.jpg">
+I didn't see much of a difference between the images produced at epochs 500 and 1000, so I decided to stick with 500 to save time.
+
+I used a learning rate of 10, alpha of 0.2, and beta of 0.8
+
+
+<img src = "https://github.com/kathleenisrad/style-transfer-implementation/blob/main/images/generated_images/starry_night_cat/generated_image_epoch_500.jpg">
