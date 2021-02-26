@@ -29,3 +29,9 @@ In the paper, they visualize the outputs of the VGG19 model at different layers,
 > 'block1_conv1', 'block2_conv1', 'block3_conv1', 'block4_conv1', 'block5_conv1'
 
 <img src = "https://github.com/kathleenisrad/style-transfer-implementation/blob/main/assets/cat.png">
+
+
+
+### Results:
+
+<img src = "https://github.com/kathleenisrad/style-transfer-implementation/blob/main/images/generated_images/starry_cat/generated_image_epoch_500.jpg">
