@@ -34,4 +34,4 @@ In the paper, they visualize the outputs of the VGG19 model at different layers,
 
 ### Results:
 
-<img src = "https://github.com/kathleenisrad/style-transfer-implementation/blob/main/images/generated_images/starry_cat/generated_image_epoch_500.jpg">
+<img src = "https://github.com/kathleenisrad/style-transfer-implementation/blob/main/images/generated_images/starry_night_cat/generated_image_epoch_500.jpg">
